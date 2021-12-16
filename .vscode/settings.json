@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "input.h": "c",
+        "fungsi.h": "c",
+        "rumus.h": "c"
+    }
+}
